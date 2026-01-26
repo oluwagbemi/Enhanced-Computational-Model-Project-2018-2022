@@ -1,4 +1,4 @@
-JASPEX model was developed using high-level programming languages such as Java, C++ and C. 
+JASPEX model was developed using high-level programming languages such as Java, C++, C and Python.
 It was extensively and rigorously programmed over many years by [Dr.Olugbenga Oluwagbemi].
 
 You can contact Dr. Olugbenga Oluwagbemi via this email: olugbenga.oluwagbemi@fulbrightmail.org
